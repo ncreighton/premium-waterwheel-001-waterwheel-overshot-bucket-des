@@ -1,0 +1,2 @@
+# premium-waterwheel-001-waterwheel-overshot-bucket-des
+Stop guessing which bucket design delivers peak overshot performance. Your waterwheel's efficiency hinges on the precise match between bucket geometry and flow rate — yet most builders rely on trial and error.  This template solves that by providing a structured log to record bucket dimensions, flow measurements, and power output correlations. It's
